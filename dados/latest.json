@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-02T11:59:47+00:00",
+ "gerado_em": "2026-11-03T11:55:00+00:00",
  "taxas": [
   {
    "par": "USD/BRL",
@@ -11,15 +11,15 @@
   {
    "par": "EUR/USD",
    "fonte": "BCE taxa de referência",
-   "taxa": 1.1172,
-   "data": "2026-10-30"
+   "taxa": 1.1216,
+   "data": "2026-11-02"
   }
  ],
  "erros": [],
  "derivadas": [
   {
    "par": "EUR/BRL",
-   "taxa": 6.056565,
+   "taxa": 6.080418,
    "nota": "PTAX venda × BCE; datas podem diferir"
   }
  ],
