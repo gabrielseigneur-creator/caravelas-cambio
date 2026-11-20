@@ -1,25 +1,25 @@
 {
- "gerado_em": "2026-11-19T12:07:03+00:00",
+ "gerado_em": "2026-11-20T12:05:39+00:00",
  "taxas": [
   {
    "par": "USD/BRL",
    "fonte": "BCB PTAX (venda)",
-   "taxa": 5.8102,
-   "compra": 5.8096,
-   "data": "2026-11-18"
+   "taxa": 5.8889,
+   "compra": 5.8883,
+   "data": "2026-11-19"
   },
   {
    "par": "EUR/USD",
    "fonte": "BCE taxa de referência",
-   "taxa": 1.0968,
-   "data": "2026-11-18"
+   "taxa": 1.0992,
+   "data": "2026-11-19"
   }
  ],
  "erros": [],
  "derivadas": [
   {
    "par": "EUR/BRL",
-   "taxa": 6.372627,
+   "taxa": 6.473079,
    "nota": "PTAX venda × BCE; datas podem diferir"
   }
  ],
